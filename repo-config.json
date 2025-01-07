@@ -2,7 +2,10 @@
   "scanSettings": {
     "configMode": "AUTO",
     "configExternalURL": "",
-    "baseBranches": []
+    "baseBranches": [],
+    "enableReachability": true,
+    "exploitability": true
+}
   },
   "scanSettingsSAST": {
     "enableScan": true,
