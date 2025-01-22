@@ -1,0 +1,9 @@
+{
+  "repositories": [
+    {
+      "fullName": "tabacmend-up-sandbox/Camunda",
+      "branchName": "main",
+      "uploadScannerLogs": true
+    }
+  ]
+}
