@@ -35,7 +35,7 @@
         "extends": [
             "config:recommended",
             "mergeConfidence:all-badges",
-            "github>tabacmend-up-sandbox/whitesource-config/smart-merge"
+            "github>tabacmend-up-sandbox/whitesource-config:smart-merge"
         ]
     }
 }
